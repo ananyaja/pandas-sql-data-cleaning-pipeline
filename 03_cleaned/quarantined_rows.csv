@@ -1,0 +1,92 @@
+transaction_id,customer_name,email_address,order_date,amount,payment_status,region_city,order_date_parsed,amount_parsed
+TXN-1243,Meera Reddy,,2026-03-09,"$1,480.39",Failed,Mumbai,2026-03-09,1480.39
+TXN-1177,Arjun Joshi,arjun.joshi63@company.org,2026-02-30, 740.84 INR ,Unknown,Bengaluru,,740.84
+TXN-1104,Arjun Reddy,arjun.reddy65@gmail.com,2026-07-11,-902.38,Pending,Mumbai,2026-07-11,-902.38
+TXN-1370,Ananya Sharma,,2026-02-14,271.21,Pending,Mumbai,2026-02-14,271.21
+TXN-1019,Ananya Reddy,ananya.reddy51@yahoo.co.in,,2496.16,Completed,Kolkata,,2496.16
+TXN-1206,Aarav Sharma,aarav.sharma29@yahoo.co.in,02-13-2026,-2294.81,Completed,Bengaluru,2026-02-13,-2294.81
+TXN-1165,Diya Das,,07-14-2026,1108.95,Completed,Bengaluru,2026-07-14,1108.95
+TXN-1475,Sneha Singh,,15 Jul 2026,"$1,683.09",Unknown,Mumbai,2026-07-15,1683.09
+TXN-1316,Vikram Joshi,vikram.joshi89@company.org,2026/08/09,NULL,Pending,Delhi,2026-08-09,
+TXN-1416,Kabir Das,,2026/03/24,NULL,Unknown,Mumbai,2026-03-24,
+TXN-1135,Sneha Nair,sneha@nair,01/06/2026,451.1,Refunded,Delhi,2026-06-01,451.1
+TXN-1387,Vikram Sharma,vikram.sharma75@yahoo.co.in,2026-01-14,-330.15,Pending,Bengaluru,2026-01-14,-330.15
+TXN-1397,Rohan Rao,rohan.rao28@gmail.com,02-07-2026,NULL,Completed,Mumbai,2026-02-07,
+TXN-1139,Meera Rao,,2026/09/16, 387.38 INR ,Unknown,Cuttack,2026-09-16,387.38
+TXN-1287,Meera Das,,21/10/2026,TBD,Completed,Mumbai,2026-10-21,
+TXN-1032,Ananya Nair,,04 Mar 2026,1673.93,Failed,Cuttack,2026-03-04,1673.93
+TXN-1414,Ananya Singh,,07 May 2026,1454.98,Completed,Unknown,2026-05-07,1454.98
+TXN-1085,Vikram Singh,,invalid_date,2364.13,Pending,Bengaluru,,2364.13
+TXN-1144,Meera Reddy,,2026-01-09,TBD,Completed,Bengaluru,2026-01-09,
+TXN-1200,Ananya Nair,ananya.nair30@outlook.com,,950.04,Pending,Mumbai,,950.04
+TXN-1118,Diya Verma,diya@verma,10-07-2026,1215.12,Refunded,Bengaluru,2026-10-07,1215.12
+TXN-1164,Kabir Nair,,2026-08-04,912.4,Unknown,Unknown,2026-08-04,912.4
+TXN-1345,Arjun Verma,,01/07/2026,2490.05,Pending,Mumbai,2026-07-01,2490.05
+TXN-1442,Diya Patel,diya.patel2@yahoo.co.in,,$260.23,Unknown,Cuttack,,260.23
+TXN-1282,Ananya Singh,ananya.singh38@yahoo.co.in,2026-02-30,2122.23,Completed,Kolkata,,2122.23
+TXN-1035,Arjun Joshi,arjun.joshi27@company.org,2026/01/11,NULL,Pending,Delhi,2026-01-11,
+TXN-1044,Aarav Rao,aarav.rao11@yahoo.co.in,01 Sep 2026,NULL,Pending,Delhi,2026-09-01,
+TXN-1141,Kabir Verma,kabir@verma,2026-02-02,-2337.44,Unknown,Mumbai,2026-02-02,-2337.44
+TXN-1382,Meera Nair,meera.nair47@company.org,,54.03,Unknown,Delhi,,54.03
+TXN-1061,Meera Sharma,meera.sharma43@gmail.com,2026-02-30,1033.8,Completed,Mumbai,,1033.8
+TXN-1163,Sneha Rao,,2026/02/13,2264.44,Unknown,Mumbai,2026-02-13,2264.44
+TXN-1275,Rohan Rao,rohan.rao96@company.org,03-15-2026,TBD,Completed,Mumbai,2026-03-15,
+TXN-1034,Meera Patel,meera.patel31@outlook.com,19/03/2026,-1770.45,Refunded,Delhi,2026-03-19,-1770.45
+TXN-1151,Sneha Verma,sneha.verma66@company.org,06-13-2026,-792.61,Pending,Mumbai,2026-06-13,-792.61
+TXN-1113,Vikram Verma,vikram.verma92@yahoo.co.in,13/04/2026,TBD,Failed,Cuttack,2026-04-13,
+TXN-1074,Priya Das,,06/03/2026,185.5,Pending,Unknown,2026-03-06,185.5
+TXN-1191,Aarav Reddy,aarav.reddy17@company.org,2026-03-30,-56.47,Pending,Bengaluru,2026-03-30,-56.47
+TXN-1160,Arjun Reddy,arjun.reddy10@outlook.com,invalid_date,1962.12,Pending,Delhi,,1962.12
+TXN-1016,Kabir Joshi,kabir@joshi,2026/08/21,1659.75,Pending,Bengaluru,2026-08-21,1659.75
+TXN-1157,Priya Gupta,,29 Mar 2026, 1617.59 INR ,Completed,Kolkata,2026-03-29,1617.59
+TXN-1312,Diya Rao,diya@rao,2026-05-09, 538.27 INR ,Completed,Mumbai,2026-05-09,538.27
+TXN-1461,Arjun Gupta,arjun.gupta5@yahoo.co.in,23/05/2026,-1616.07,Unknown,Mumbai,2026-05-23,-1616.07
+TXN-1111,Sneha Gupta,sneha@gupta,2026/09/23,307.64,Unknown,Bengaluru,2026-09-23,307.64
+TXN-1027,Vikram Sharma,vikram.sharma94@outlook.com,2026-10-23,TBD,Pending,Delhi,2026-10-23,
+TXN-1450,Arjun Reddy,arjun@reddy,03-02-2026,2134.39,Completed,Mumbai,2026-03-02,2134.39
+TXN-1277,Priya Nair,priya.nair73@gmail.com,2026-08-25,-737.27,Completed,Bengaluru,2026-08-25,-737.27
+TXN-1125,Sneha Singh,sneha.singh51@outlook.com,09-08-2026,NULL,Completed,Delhi,2026-09-08,
+TXN-1114,Arjun Nair,arjun.nair12@gmail.com,27 Sep 2026,-2061.0,Failed,Mumbai,2026-09-27,-2061.0
+TXN-1465,Rohan Reddy,,2026-01-18,1731.35,Pending,Bengaluru,2026-01-18,1731.35
+TXN-1122,Meera Singh,meera@singh,03-10-2026, 1913.18 INR ,Refunded,Mumbai,2026-03-10,1913.18
+TXN-1038,Vikram Gupta,,2026-06-29,1956.36,Completed,Bengaluru,2026-06-29,1956.36
+TXN-1272,Ananya Rao,ananya.rao95@company.org,,$839.31,Completed,Mumbai,,839.31
+TXN-1124,Sneha Nair,,2026/06/20,1150.62,Unknown,Mumbai,2026-06-20,1150.62
+TXN-1454,Vikram Patel,,05 Aug 2026,677.55,Completed,Delhi,2026-08-05,677.55
+TXN-1380,Diya Verma,diya.verma56@outlook.com,19/09/2026,-2133.48,Unknown,Mumbai,2026-09-19,-2133.48
+TXN-1284,Arjun Reddy,,2026/02/22, 1589.41 INR ,Pending,Unknown,2026-02-22,1589.41
+TXN-1324,Aarav Reddy,aarav.reddy90@gmail.com,27 Jun 2026,NULL,Failed,Mumbai,2026-06-27,
+TXN-1258,Meera Das,,05 Mar 2026,1151.61,Unknown,Mumbai,2026-03-05,1151.61
+TXN-1441,Priya Singh,priya@singh,05-23-2026,890.23,Pending,Kolkata,2026-05-23,890.23
+TXN-1352,Meera Reddy,meera@reddy,14 Jul 2026,1534.59,Unknown,Kolkata,2026-07-14,1534.59
+TXN-1218,Sneha Rao,sneha.rao62@yahoo.co.in,invalid_date,-2379.88,Completed,Delhi,,-2379.88
+TXN-1024,Ananya Das,ananya.das46@company.org,02/05/2026,TBD,Failed,Delhi,2026-05-02,
+TXN-1417,Kabir Nair,kabir@nair,07-17-2026, 1334.34 INR ,Pending,Unknown,2026-07-17,1334.34
+TXN-1154,Aarav Gupta,,2026/07/11,2283.19,Completed,Mumbai,2026-07-11,2283.19
+TXN-1041,Aarav Reddy,,07 Jan 2026,277.26,Unknown,Mumbai,2026-01-07,277.26
+TXN-1391,Kabir Gupta,,08-18-2026,2404.98,Completed,Mumbai,2026-08-18,2404.98
+TXN-1238,Diya Verma,,2026-10-25,"$1,188.47",Completed,Delhi,2026-10-25,1188.47
+TXN-1047,Vikram Sharma,,30/05/2026,1600.11,Completed,Mumbai,2026-05-30,1600.11
+TXN-1308,Meera Sharma,meera.sharma81@outlook.com,2026-10-18,-1731.0,Pending,Cuttack,2026-10-18,-1731.0
+TXN-1244,Kabir Verma,kabir@verma,2026-01-11, 1050.69 INR ,Unknown,Bengaluru,2026-01-11,1050.69
+TXN-1251,Meera Patel,,2026/01/07,1922.31,Pending,Delhi,2026-01-07,1922.31
+TXN-1263,Kabir Sharma,kabir.sharma4@company.org,03-24-2026,-378.87,Pending,Bengaluru,2026-03-24,-378.87
+TXN-1341,Aarav Das,,26 Feb 2026,$71.53,Unknown,Bengaluru,2026-02-26,71.53
+TXN-1377,Diya Das,,09 Aug 2026, 1424.52 INR ,Pending,Mumbai,2026-08-09,1424.52
+TXN-1207,Meera Nair,,28 Mar 2026, 2056.89 INR ,Completed,Delhi,2026-03-28,2056.89
+TXN-1404,Priya Joshi,,22 Jun 2026,820.72,Unknown,Mumbai,2026-06-22,820.72
+TXN-1205,Arjun Sharma,,2026/08/20,635.88,Completed,Mumbai,2026-08-20,635.88
+TXN-1309,Priya Joshi,priya.joshi34@outlook.com,2026-02-30,887.46,Pending,Unknown,,887.46
+TXN-1421,Meera Singh,meera.singh87@gmail.com,07-20-2026,-2396.27,Completed,Bengaluru,2026-07-20,-2396.27
+TXN-1292,Rohan Verma,rohan.verma30@gmail.com,,1976.71,Completed,Kolkata,,1976.71
+TXN-1167,Vikram Gupta,vikram.gupta73@yahoo.co.in,,1162.13,Unknown,Bengaluru,,1162.13
+TXN-1456,Meera Patel,meera@patel,2026/07/25,"$1,861.08",Completed,Unknown,2026-07-25,1861.08
+TXN-1063,Aarav Singh,aarav.singh37@yahoo.co.in,02-21-2026,-2260.01,Completed,Bengaluru,2026-02-21,-2260.01
+TXN-1452,Meera Joshi,meera.joshi21@gmail.com,06-30-2026,,Completed,Delhi,2026-06-30,
+TXN-1256,Arjun Singh,arjun.singh92@outlook.com,invalid_date,2077.26,Pending,Kolkata,,2077.26
+TXN-1393,Sneha Nair,sneha@nair,02-23-2026, 560.25 INR ,Pending,Mumbai,2026-02-23,560.25
+TXN-1384,Arjun Verma,,2026-09-05,1456.97,Completed,Mumbai,2026-09-05,1456.97
+TXN-1146,Vikram Nair,vikram.nair67@yahoo.co.in,31 Mar 2026,-1396.29,Failed,Delhi,2026-03-31,-1396.29
+TXN-1048,Diya Verma,diya.verma57@outlook.com,2026-09-02,-1010.76,Completed,Mumbai,2026-09-02,-1010.76
+TXN-1444,Arjun Nair,arjun@nair,01 Mar 2026, 1506.97 INR ,Unknown,Bengaluru,2026-03-01,1506.97
+TXN-1227,Diya Joshi,,2026-06-19,1868.19,Failed,Mumbai,2026-06-19,1868.19
